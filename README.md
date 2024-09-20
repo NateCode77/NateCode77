@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NateCode77
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development, web development, and quality assurance.
 - 🌱 I’m currently learning C++, C#, Python, and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
